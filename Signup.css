@@ -1,0 +1,38 @@
+.bgimg{
+    background-image: url(udaipur.jpg);
+    background-size: cover;
+    height: 1000px;
+    width:100%;
+}
+#formbox{
+    background-image: url(form_imAGE.jpg);
+    background-size: auto;
+    height:550px;
+    width:500px;
+    margin:15px;
+    padding:25px;
+
+}
+#form_01{
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top:50px;
+    padding:15px;
+    align-items:center;
+    font-weight: 500;
+}
+label{
+    float:inherit;
+    font-display: bold;
+}
+input{
+    padding:8px;
+}
+.cars{
+   font-size: larger;
+   font-weight: 500;
+   font-family:'Courier New', Courier, monospace;
+}
+button{
+    align-self: center;
+}
